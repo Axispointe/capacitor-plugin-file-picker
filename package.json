@@ -13,7 +13,7 @@
     "ios/Plugin/",
     "AxispointeCapacitorPluginFilePicker.podspec"
   ],
-  "author": "Manuel Rodríguez",
+  "author": "Josh Liu",
   "license": "MIT",
   "repository": {
     "type": "git",
